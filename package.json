@@ -1,12 +1,12 @@
 {
-  "name": "youtube-dl",
-  "description": "youtube-dl driver for node",
+  "name": "youtube-dl-vimeo",
+  "description": "youtube-dl driver for node (allowing vimeo)",
   "keywords": [
     "youtube",
     "video",
     "download"
   ],
-  "version": "1.5.10",
+  "version": "1.5.11",
   "repository": {
     "type": "git",
     "url": "git://github.com/fent/node-youtube-dl.git"
